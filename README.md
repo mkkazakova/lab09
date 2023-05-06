@@ -23,7 +23,7 @@ https://github.com/laravel/homestead
 ..\homestead-main\Vagrantfile
 ..\homestead-main\scripts/*
 
-### PuTTY и 
+### PuTTY и SSH
 
 PuTTY — это реализация SSH и Telnet для платформ Windows и Unix. PuTTY позволяет подключиться и управлять удаленным узлом (например, сервером). Для создания SSH ключей: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
